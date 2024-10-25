@@ -1,0 +1,17 @@
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Recipe.exe
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Recipe.deps.json
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Recipe.runtimeconfig.json
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Recipe.dll
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Recipe.pdb
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.AssemblyInfoInputs.cache
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.AssemblyInfo.cs
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.csproj.CoreCompileInputs.cache
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.dll
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\refint\Recipe.dll
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.pdb
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.genruntimeconfig.cache
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\ref\Recipe.dll
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.csproj.AssemblyReference.cache
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.csproj.Up2Date
