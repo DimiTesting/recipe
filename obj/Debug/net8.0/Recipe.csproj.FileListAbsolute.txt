@@ -15,3 +15,4 @@ C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\ref\Recipe.dll
 C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.csproj.AssemblyReference.cache
 C:\Users\amankeldi.kurban\Desktop\C#\Recipe\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.csproj.Up2Date
+C:\Users\amankeldi.kurban\Desktop\C#\Recipe\obj\Debug\net8.0\Recipe.sourcelink.json

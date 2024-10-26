@@ -39,6 +39,11 @@ namespace Recipe.UserCommunication
                     }
                     else 
                     {
+                        if(_workWithFiles.Choices.Count==0)
+                        {
+                            Console.WriteLine("Recep has not been added");
+                            return false;
+                        }
                         Console.WriteLine();
                         Console.WriteLine("Recipe Added:");
                         for(int i=0; _workWithFiles.Choices.Count>i; i++)
@@ -63,6 +68,11 @@ namespace Recipe.UserCommunication
                 }
                 else 
                 {
+                    if(_workWithFiles.Choices.Count==0)
+                    {
+                        Console.WriteLine("Recep has not been added");
+                        return false;
+                    }
                     Console.WriteLine();
                     Console.WriteLine("Recipe Added:");
                     for(int i=0; _workWithFiles.Choices.Count>i; i++)
